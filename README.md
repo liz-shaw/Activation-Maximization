@@ -38,7 +38,7 @@ python batch_run.py
 
 - `batch_run.py`: 批量实验调度脚本，利用 subprocess 自动化调用。
 
-- results/: 自动生成的实验结果，文件名格式：`{model}_L{layer}_U{unit}_S{steps}.jpg`。
+- `results/`: 自动生成的实验结果，文件名格式：`{model}_L{layer}_U{unit}_S{steps}.jpg`。
 
 ##  实验结果
 
